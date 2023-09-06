@@ -5,8 +5,8 @@
       "Link": "https://proyectomica.miraheze.org/wiki/Combate_de_Marmarajá",
       "Lat": -34.20279219999998,
       "Lng": -54.812547,
-      "": "",
-      "__1": ""
+      "Year": 1816,
+      "key": 1
     },
     {
       "Group": "Negro",
@@ -14,8 +14,8 @@
       "Link": "https://proyectomica.miraheze.org/wiki/Batalla_de_Laguna_Cierva",
       "Lat": -26.994457500000017,
       "Lng": -58.47614829999999,
-      "": "",
-      "__1": ""
+      "Year": 1811,
+      "key": 2
     },
     {
       "Group": "Rojo",
@@ -23,8 +23,8 @@
       "Link": "https://proyectomica.miraheze.org/wiki/Combate_de_Arroyo_de_la_China",
       "Lat": -32.52473699,
       "Lng": -58.2309159,
-      "": "",
-      "__1": ""
+      "Year": 1812,
+      "key": 3
     },
     {
       "Group": "Rojo",
@@ -32,8 +32,8 @@
       "Link": "https://proyectomica.miraheze.org/wiki/Combate_del_Paso_de_Gualeguaychú",
       "Lat": -32.956833,
       "Lng": -58.460390399,
-      "": "",
-      "__1": ""
+      "Year": 1812,
+      "key": 4
     },
     {
       "Group": "Rojo",
@@ -41,8 +41,8 @@
       "Link": "https://proyectomica.miraheze.org/wiki/Combate_de_Gualeguay",
       "Lat": -32.9489726,
       "Lng": -59.4001617,
-      "": "",
-      "__1": ""
+      "Year": 1812,
+      "key": 5
     },
     {
       "Group": "Rojo",
@@ -50,8 +50,8 @@
       "Link": "https://proyectomica.miraheze.org/wiki/Batalla_de_La_Cruz",
       "Lat": -28.69038437,
       "Lng": -56.8640867299,
-      "": "",
-      "__1": ""
+      "Year": 1813,
+      "key": 6
     },
     {
       "Group": "Rojo",
@@ -59,8 +59,8 @@
       "Link": "https://proyectomica.miraheze.org/wiki/Batalla_de_Las_Piedras",
       "Lat": -34.720997,
       "Lng": -55.961095,
-      "": "",
-      "__1": ""
+      "Year": 1814,
+      "key": 7
     },
     {
       "Group": "Rojo",
@@ -68,8 +68,8 @@
       "Link": "https://proyectomica.miraheze.org/wiki/Combate_de_Mandisoví",
       "Lat": -30.994474,
       "Lng": -57.9912259,
-      "": "",
-      "__1": ""
+      "Year": 1815,
+      "key": 8
     },
     {
       "Group": "Rojo",
@@ -77,8 +77,8 @@
       "Link": "https://proyectomica.miraheze.org/wiki/Combate_de_Belén",
       "Lat": -30.9048852,
       "Lng": -56.5137328,
-      "": "",
-      "__1": ""
+      "Year": 1816,
+      "key": 9
     },
     {
       "Group": "Rojo",
@@ -86,8 +86,8 @@
       "Link": "https://proyectomica.miraheze.org/wiki/Combate_de_Curuzú_Cuatiá",
       "Lat": -29.8041375,
       "Lng": -58.23393272,
-      "": "",
-      "__1": ""
+      "Year": 1817,
+      "key": 10
     },
     {
       "Group": "Rojo",
@@ -95,8 +95,8 @@
       "Link": "https://proyectomica.miraheze.org/wiki/Batalla_de_Rincón",
       "Lat": -32.8470511,
       "Lng": -56.409319,
-      "": "",
-      "__1": ""
+      "Year": 1818,
+      "key": 11
     },
     {
       "Group": "Rojo",
@@ -104,8 +104,8 @@
       "Link": "https://proyectomica.miraheze.org/wiki/Combate_de_Barra_de_Pos_Pos",
       "Lat": -32.271391,
       "Lng": -58.1526119,
-      "": "",
-      "__1": ""
+      "Year": 1819,
+      "key": 12
     },
     {
       "Group": "Rojo",
@@ -113,8 +113,8 @@
       "Link": "https://proyectomica.miraheze.org/wiki/Batalla_de_Colodrero",
       "Lat": -28.2012949,
       "Lng": -58.625415,
-      "": "",
-      "__1": ""
+      "Year": 1810,
+      "key": 13
     },
     {
       "Group": "Rojo",
@@ -122,8 +122,8 @@
       "Link": "https://proyectomica.miraheze.org/wiki/Batalla_de_Guayabos",
       "Lat": -31.7369277,
       "Lng": -56.6166683,
-      "": "",
-      "__1": ""
+      "Year": 1811,
+      "key": 14
     },
     {
       "Group": "Rojo",
@@ -131,8 +131,8 @@
       "Link": "https://proyectomica.miraheze.org/wiki/Batalla_de_Yeruá",
       "Lat": -31.51980379,
       "Lng": -58.0403225,
-      "": "",
-      "__1": ""
+      "Year": 1810,
+      "key": 15
     },
     {
       "Group": "Rojo",
@@ -140,8 +140,8 @@
       "Link": "https://proyectomica.miraheze.org/wiki/Batalla_de_Santiago_del_Estero",
       "Lat": -27.7796946,
       "Lng": -64.2955441,
-      "": "",
-      "__1": ""
+      "Year": 1816,
+      "key": 16
     },
     {
       "Group": "Rojo",
@@ -149,8 +149,8 @@
       "Link": "https://proyectomica.miraheze.org/wiki/Combate_de_las_Chacras_de_Andino",
       "Lat": -31.62186939,
       "Lng": -60.7233372,
-      "": "",
-      "__1": ""
+      "Year": 1816,
+      "key": 17
     },
     {
       "Group": "Azul",
@@ -158,8 +158,8 @@
       "Link": "https://proyectomica.miraheze.org/wiki/Combate_de_Cotagaita",
       "Lat": -20.8136118,
       "Lng": -65.6585407,
-      "": "",
-      "__1": ""
+      "Year": 1816,
+      "key": 18
     },
     {
       "Group": "Azul",
@@ -167,8 +167,8 @@
       "Link": "https://proyectomica.miraheze.org/wiki/Batalla_de_Suipacha",
       "Lat": -21.5383178,
       "Lng": -65.6011678,
-      "": "",
-      "__1": ""
+      "Year": 1816,
+      "key": 19
     },
     {
       "Group": "Azul",
@@ -176,8 +176,8 @@
       "Link": "https://proyectomica.miraheze.org/wiki/Batalla_de_Aroma",
       "Lat": -18.826022,
       "Lng": -66.6845048,
-      "": "",
-      "__1": ""
+      "Year": 1816,
+      "key": 20
     },
     {
       "Group": "Azul",
@@ -185,8 +185,8 @@
       "Link": "https://proyectomica.miraheze.org/wiki/Combate_de_Campichuelo",
       "Lat": -26.80216909,
       "Lng": -55.6469918,
-      "": "",
-      "__1": ""
+      "Year": 1816,
+      "key": 21
     },
     {
       "Group": "Azul",
@@ -194,8 +194,8 @@
       "Link": "https://proyectomica.miraheze.org/wiki/Combate_de_Maracaná",
       "Lat": -24.1912249,
       "Lng": -56.073773,
-      "": "",
-      "__1": ""
+      "Year": 1816,
+      "key": 222
     },
     {
       "Group": "Azul",
@@ -203,8 +203,8 @@
       "Link": "https://proyectomica.miraheze.org/wiki/Batalla_de_Paraguarí",
       "Lat": -25.6502985,
       "Lng": -57.156178,
-      "": "",
-      "__1": ""
+      "Year": 1816,
+      "key": 23
     },
     {
       "Group": "Azul",
@@ -212,8 +212,8 @@
       "Link": "https://proyectomica.miraheze.org/wiki/Combate_de_San_Nicolás",
       "Lat": -33.3334669,
       "Lng": -60.211049,
-      "": "",
-      "__1": ""
+      "Year": 1816,
+      "key": 24
     },
     {
       "Group": "Azul",
@@ -221,8 +221,8 @@
       "Link": "https://proyectomica.miraheze.org/wiki/Batalla_de_Tacuarí",
       "Lat": -27.2002008,
       "Lng": -56.147799,
-      "": "",
-      "__1": ""
+      "Year": 1817,
+      "key": 25
     },
     {
       "Group": "Azul",
@@ -230,8 +230,8 @@
       "Link": "https://proyectomica.miraheze.org/wiki/Combate_de_Soriano",
       "Lat": -33.4004722,
       "Lng": -58.324928,
-      "": "",
-      "__1": ""
+      "Year": 1816,
+      "key": 26
     },
     {
       "Group": "Azul",
@@ -239,8 +239,8 @@
       "Link": "https://proyectomica.miraheze.org/wiki/Combate_de_Huaqui",
       "Lat": -16.60608,
       "Lng": -68.81825,
-      "": "",
-      "__1": ""
+      "Year": 1816,
+      "key": 27
     },
     {
       "Group": "Azul",
@@ -248,8 +248,8 @@
       "Link": "https://proyectomica.miraheze.org/wiki/Combate_de_San_José",
       "Lat": -34.34633,
       "Lng": -56.730173,
-      "": "",
-      "__1": ""
+      "Year": 1816,
+      "key": 28
     },
     {
       "Group": "Azul",
@@ -257,8 +257,8 @@
       "Link": "https://proyectomica.miraheze.org/wiki/Combate_de_Chiviraya",
       "Lat": -15.14227929,
       "Lng": -68.5357099,
-      "": "",
-      "__1": ""
+      "Year": 1810,
+      "key": 29
     },
     {
       "Group": "Amarillo",
@@ -266,8 +266,8 @@
       "Link": "https://proyectomica.miraheze.org/wiki/Toma_de_Santa_Teresa",
       "Lat": -33.971257,
       "Lng": -53.56423489,
-      "": "",
-      "__1": ""
+      "Year": 1816,
+      "key": 30
     },
     {
       "Group": "Amarillo",
@@ -275,8 +275,8 @@
       "Link": "https://proyectomica.miraheze.org/wiki/Paso_de_Itaquí",
       "Lat": -29.1139938,
       "Lng": -56.53505,
-      "": "",
-      "__1": ""
+      "Year": 1816,
+      "key": 31
     },
     {
       "Group": "Amarillo",
@@ -284,8 +284,8 @@
       "Link": "https://proyectomica.miraheze.org/wiki/San_Juan_Velho",
       "Lat": -28.45042,
       "Lng": -54.389832,
-      "": "",
-      "__1": ""
+      "Year": 1816,
+      "key": 32
     },
     {
       "Group": "Amarillo",
@@ -293,8 +293,8 @@
       "Link": "https://proyectomica.miraheze.org/wiki/Rincón_de_la_Cruz",
       "Lat": -29.15673,
       "Lng": -56.607617,
-      "": "",
-      "__1": ""
+      "Year": 1863,
+      "key": 33
     },
     {
       "Group": "Amarillo",
@@ -302,8 +302,8 @@
       "Link": "https://proyectomica.miraheze.org/wiki/Batalla_de_Santa_Ana",
       "Lat": -30.8820002,
       "Lng": -55.55845,
-      "": "",
-      "__1": ""
+      "Year": 1854,
+      "key": 34
     },
     {
       "Group": "Amarillo",
@@ -311,8 +311,8 @@
       "Link": "https://proyectomica.miraheze.org/wiki/Yapeyú",
       "Lat": -29.44973489,
       "Lng": -56.81502,
-      "": "",
-      "__1": ""
+      "Year": 1854,
+      "key": 35
     },
     {
       "Group": "Amarillo",
@@ -320,8 +320,8 @@
       "Link": "https://proyectomica.miraheze.org/wiki/San_Borja",
       "Lat": -28.637819,
       "Lng": -55.9773653,
-      "": "",
-      "__1": ""
+      "Year": 1856,
+      "key": 36
     },
     {
       "Group": "Amarillo",
@@ -329,8 +329,8 @@
       "Link": "https://proyectomica.miraheze.org/wiki/Batalla_de_Ibirocahy",
       "Lat": -29.466120699,
       "Lng": -56.7519601,
-      "": "",
-      "__1": ""
+      "Year": 1825,
+      "key": 37
     },
     {
       "Group": "Amarillo",
@@ -338,8 +338,8 @@
       "Link": "https://proyectomica.miraheze.org/wiki/Batalla_de_Carumbé",
       "Lat": -30.2052341,
       "Lng": -57.1551815,
-      "": "",
-      "__1": ""
+      "Year": 1856,
+      "key": 38
     },
     {
       "Group": "Amarillo",
@@ -347,8 +347,8 @@
       "Link": "https://proyectomica.miraheze.org/wiki/Ocupación_Británica_de_las_Islas_Malvinas",
       "Lat": -51.5286751,
       "Lng": -58.1304501,
-      "": "",
-      "__1": ""
+      "Year": 1874,
+      "key": 39
     },
     {
       "Group": "Verde",
@@ -356,8 +356,8 @@
       "Link": "https://proyectomica.miraheze.org/wiki/Ataque_al_Fuerte_San_José",
       "Lat": -42.4414,
       "Lng": -64.129125,
-      "": "",
-      "__1": ""
+      "Year": 1822,
+      "key": 40
     },
     {
       "Group": "Verde",
@@ -365,8 +365,8 @@
       "Link": "https://proyectomica.miraheze.org/wiki/Malón_Mar_Chiquita",
       "Lat": -37.6926395,
       "Lng": -57.5047162,
-      "": "",
-      "__1": ""
+      "Year": 1816,
+      "key": 41
     },
     {
       "Group": "Verde",
@@ -374,8 +374,8 @@
       "Link": "https://proyectomica.miraheze.org/wiki/Malón_Lobos",
       "Lat": -35.198644,
       "Lng": -59.145595,
-      "": "",
-      "__1": ""
+      "Year": 1899,
+      "key": 42
     },
     {
       "Group": "Verde",
@@ -383,8 +383,8 @@
       "Link": "https://proyectomica.miraheze.org/wiki/Batalla_de_la_Sierra_de_la_Tinta",
       "Lat": -37.67744,
       "Lng": -59.589974,
-      "": "",
-      "__1": ""
+      "Year": 1810,
+      "key": 43
     },
     {
       "Group": "Verde",
@@ -392,8 +392,8 @@
       "Link": "https://proyectomica.miraheze.org/wiki/Malón Salto",
       "Lat": -34.31716829,
       "Lng": -60.213556,
-      "": "",
-      "__1": ""
+      "Year": 1816,
+      "key": 44
     },
     {
       "Group": "Verde",
@@ -401,8 +401,8 @@
       "Link": "https://proyectomica.miraheze.org/wiki/Malón_Rojas",
       "Lat": -34.2226792,
       "Lng": -60.7351785,
-      "": "",
-      "__1": ""
+      "Year": 1877,
+      "key": 45
     },
     {
       "Group": "Verde",
@@ -410,8 +410,8 @@
       "Link": "https://proyectomica.miraheze.org/wiki/Malón Chascomús",
       "Lat": -35.5262422,
       "Lng": -58.115275,
-      "": "",
-      "__1": ""
+      "Year": 1869,
+      "key": 46
     },
     {
       "Group": "Verde",
@@ -419,8 +419,8 @@
       "Link": "https://proyectomica.miraheze.org/wiki/Arroyo_Chapaleofú",
       "Lat": -36.7947111,
       "Lng": -59.283419,
-      "": "",
-      "__1": ""
+      "Year": 1825,
+      "key": 47
     },
     {
       "Group": "Verde",
@@ -428,8 +428,8 @@
       "Link": "https://proyectomica.miraheze.org/wiki/Emboscada_Laguna_la_Perfidia",
       "Lat": -37.429249,
       "Lng": -59.7907758,
-      "": "",
-      "__1": ""
+      "Year": 1824,
+      "key": 48
     },
     {
       "Group": "Verde",
@@ -437,8 +437,8 @@
       "Link": "https://proyectomica.miraheze.org/wiki/Malón_Chapaleofú",
       "Lat": -36.721548,
       "Lng": -59.100775,
-      "": "",
-      "__1": ""
+      "Year": 1888,
+      "key": 49
     },
     {
       "Group": "Verde",
@@ -446,7 +446,7 @@
       "Link": "https://proyectomica.miraheze.org/wiki/Malón_Dolores",
       "Lat": -36.3412298,
       "Lng": -57.6821746,
-      "": "",
-      "__1": ""
+      "Year": 1895,
+      "key": 50
     }
   ]

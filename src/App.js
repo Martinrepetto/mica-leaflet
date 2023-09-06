@@ -1,7 +1,7 @@
 import "./App.css";
-import { MapContainer, TileLayer } from "react-leaflet";
-import MarkerClusterGroup from "@christopherpickering/react-leaflet-markercluster";
-import Markers from "./components/Markers";
+import { LayersControl, MapContainer, TileLayer } from "react-leaflet";
+
+import { MarkerOverlay } from "./components/MarkerOverlay";
 
 function App() {
   return (
@@ -12,11 +12,27 @@ function App() {
         zoom={4}
         scrollWheelZoom={true}
       >
-        <TileLayer
-          attribution='<a href="https://www.ign.gob.ar/">Instituto Geográfico Nacional</a>'
-          url="https://wms.ign.gob.ar/geoserver/gwc/service/tms/1.0.0/capabaseargenmap@EPSG%3A3857@png/{z}/{x}/{-y}.png"
-        />
-        <MarkerClusterGroup showCoverageOnHover={1}>{<Markers/>}</MarkerClusterGroup>
+        <LayersControl position="topright">
+          <LayersControl.BaseLayer checked name="Argenmap">
+            <TileLayer
+              attribution='<a href="https://www.ign.gob.ar/">Instituto Geográfico Nacional</a>'
+              url="https://wms.ign.gob.ar/geoserver/gwc/service/tms/1.0.0/capabaseargenmap@EPSG%3A3857@png/{z}/{x}/{-y}.png"
+            />
+          </LayersControl.BaseLayer>
+          <LayersControl.BaseLayer name="Imágenes satelitales Esri">
+            <TileLayer
+              attribution="Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community"
+              url="https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}"
+            />
+          </LayersControl.BaseLayer>
+
+          
+
+          <MarkerOverlay name='Batallas Guerras Civiles' color='red'/>
+          <MarkerOverlay name='Batallas por la independencia' color='blue'/>
+          <MarkerOverlay name='Batallas contra otros estados' color='yellow'/>
+          <MarkerOverlay name='Combates contra los pueblos originarios' color='green'/>
+        </LayersControl>
       </MapContainer>
     </div>
   );
