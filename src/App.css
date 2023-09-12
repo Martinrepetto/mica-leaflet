@@ -1,3 +1,7 @@
 .App > #map {
   height: 100vh;
 }
+.numimput{
+  text-align: center;
+  font-weight: bold;
+}

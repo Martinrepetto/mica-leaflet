@@ -1,7 +1,10 @@
 import "./App.css";
+
 import { LayersControl, MapContainer, TileLayer } from "react-leaflet";
 
 import { MarkerOverlay } from "./components/MarkerOverlay";
+
+import { TimeInputs } from "./components/TimeInputs";
 
 function App() {
   return (
@@ -26,13 +29,16 @@ function App() {
             />
           </LayersControl.BaseLayer>
 
-          
-
-          <MarkerOverlay name='Batallas Guerras Civiles' color='red'/>
-          <MarkerOverlay name='Batallas por la independencia' color='blue'/>
-          <MarkerOverlay name='Batallas contra otros estados' color='yellow'/>
-          <MarkerOverlay name='Combates contra los pueblos originarios' color='green'/>
+          <MarkerOverlay name="Batallas Guerras Civiles" color="red" />
+          <MarkerOverlay name="Batallas por la independencia" color="blue" />
+          <MarkerOverlay name="Batallas contra otros estados" color="yellow" />
+          <MarkerOverlay
+            name="Combates contra los pueblos originarios"
+            color="green"
+          />
         </LayersControl>
+
+        <TimeInputs />
       </MapContainer>
     </div>
   );
